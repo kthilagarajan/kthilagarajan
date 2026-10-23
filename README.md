@@ -30,6 +30,19 @@ A visual workspace for your project terminals. Run scripts with one click, arran
 
 [Explore the code →](https://github.com/kthilagarajan/mrterminal) · [Releases →](https://github.com/kthilagarajan/mrterminal/releases)
 
+### 🧹 [Stow](https://kthilagarajan.github.io/stow/)
+
+See what your Mac is holding, and what it can let go. Stow measures caches, package stores, Xcode leftovers and old downloads, sorts every folder by what you can safely clear, and moves things to the Bin, never straight to deletion. Everything stays on your Mac.
+
+<a href="https://kthilagarajan.github.io/stow/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kthilagarajan/stow/raw/refs/heads/main/docs/screenshots/overview-dark.png">
+    <img alt="Stow showing a storage bar split by what can go, a list of folders such as Caches and .npm, and the details for the npm cache" src="https://github.com/kthilagarajan/stow/raw/refs/heads/main/docs/screenshots/overview-light.png">
+  </picture>
+</a>
+
+[Website →](https://kthilagarajan.github.io/stow/) · [Explore the code →](https://github.com/kthilagarajan/stow) · [Download for Mac →](https://github.com/kthilagarajan/stow/releases/latest)
+
 ### 🤖 [Getinto.chat](https://webtk.dev/products/getinto-chat)
 
 A personal AI agent: **any model, one agent, always on.** Currently coming soon.
